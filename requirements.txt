@@ -24,6 +24,7 @@ idna==3.7
 joblib==1.4.2
 kiwisolver==1.4.5
 matplotlib==3.9.1
+mysqlclient==2.2.4
 numpy==2.0.1
 packaging==24.1
 pandas==2.2.2
